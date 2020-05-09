@@ -1,0 +1,15 @@
+[00:00:00]: PersistRootStorage is now /Users/aloua/Documents/Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 407516
+[00:00:00]: Current time: Mon May  4 10:17:05 2020
+
+[00:00:00]: Don't Starve Together: 407516 OSX_STEAM
+[00:00:00]: Build Date: 4721
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -psn_0_53261 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Steam doesn't seem to be running. Trying to restart the game via Steam.
+[00:00:00]: Error, Steam failed to initialize, result=1...
+[00:00:00]: The application will now exit
+[00:00:00]: Shutting down

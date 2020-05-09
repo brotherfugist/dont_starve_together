@@ -1,0 +1,4 @@
+[00:41:17]: [Death Announcement] alouaboiler 死于： 猎犬。她变成了可怕的鬼魂！
+[00:49:23]: [Resurrect Announcement] alouaboiler 复活自： liwen_1202.
+[01:10:58]: [Death Announcement] liwen_1202 死于： 龙蝇。她变成了可怕的鬼魂！
+[01:20:15]: [Resurrect Announcement] liwen_1202 复活自： alouaboiler.

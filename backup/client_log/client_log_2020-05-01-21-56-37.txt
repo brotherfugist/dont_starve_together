@@ -1,0 +1,379 @@
+[00:00:00]: PersistRootStorage is now /Users/aloua/Documents/Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 407516
+[00:00:00]: Current time: Fri May  1 21:51:14 2020
+
+[00:00:00]: Don't Starve Together: 407516 OSX_STEAM
+[00:00:00]: Build Date: 4721
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Steam AppBuildID: 4957033
+[00:00:00]: ....Done
+[00:00:00]: PersistUserStorage is now /Users/aloua/Documents/Klei//DoNotStarveTogether/1088446501/ 
+[00:00:00]: THREAD - started 'GAClient' (123145330528256)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:01]: Texture Streaming: ENABLED
+[00:00:01]: ProfileIndex:2.64
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: THREAD - started 'Ping Job Thread' (123145339076608)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: THREAD - started 'StreamInput' (123145341186048)
+[00:00:01]: loaded ping_cache
+[00:00:01]: Offline user ID: OU_76561199048712229
+[00:00:01]: SteamID: 76561199048712229
+[00:00:01]: THREAD - started 'AsynTextureLoadthread' (123145343295488)
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Darwin
+    version                   18.7.0
+    platformSpecific          
+    architecture              64-bit
+  CPU                       
+    clockSpeed                2300
+    name                      Intel(R) Core(TM) i9-9880H CPU @ 2.30GHz
+    manufacturer              GenuineIntel
+    numCores                  8
+    features                  
+  RAM                       
+    megsOfRam                 32768
+  GPU                       
+    megsOfRam                 0
+    videoModeDescription      
+    name                      
+    driverVersion             
+    driverDate                
+    refreshRate               3806585216
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: WindowManager::Initialize
+[00:00:01]: Creating window with size 1680x1005 at 0x45
+[00:00:01]: THREAD - started 'AsynTextureLoadthread' (123145345404928)
+[00:00:01]: THREAD - started 'SDLInputManager' (123145347514368)
+[00:00:01]: Num Joysticks detected: 0
+[00:00:01]: OSX version 10.14.6
+[00:00:01]: GLInfo
+[00:00:01]: ~~~~~~
+[00:00:01]: GL_VENDOR: ATI Technologies Inc.
+[00:00:01]: GL_RENDERER: AMD Radeon Pro Vega 20 OpenGL Engine
+[00:00:01]: GL_VERSION: 2.1 ATI-2.11.21
+[00:00:01]: GL_SHADING_LANGUAGE_VERSION: 1.20
+[00:00:01]: OpenGL 3.0 not present, detecting extensions the old way
+[00:00:01]: OpenGL extensions (137, 137):
+[00:00:01]: 
+[00:00:01]: GL_APPLE_aux_depth_stencil
+[00:00:01]: GL_APPLE_client_storage
+[00:00:01]: GL_APPLE_element_array
+[00:00:01]: GL_APPLE_fence
+[00:00:01]: GL_APPLE_float_pixels
+[00:00:01]: GL_APPLE_flush_buffer_range
+[00:00:01]: GL_APPLE_flush_render
+[00:00:01]: GL_APPLE_object_purgeable
+[00:00:01]: GL_APPLE_packed_pixels
+[00:00:01]: GL_APPLE_pixel_buffer
+[00:00:01]: GL_APPLE_rgb_422
+[00:00:01]: GL_APPLE_row_bytes
+[00:00:01]: GL_APPLE_specular_vector
+[00:00:01]: GL_APPLE_texture_range
+[00:00:01]: GL_APPLE_transform_hint
+[00:00:01]: GL_APPLE_vertex_array_object
+[00:00:01]: GL_APPLE_vertex_array_range
+[00:00:01]: GL_APPLE_vertex_point_size
+[00:00:01]: GL_APPLE_vertex_program_evaluators
+[00:00:01]: GL_APPLE_ycbcr_422
+[00:00:01]: GL_ARB_color_buffer_float
+[00:00:01]: GL_ARB_depth_buffer_float
+[00:00:01]: GL_ARB_depth_clamp
+[00:00:01]: GL_ARB_depth_texture
+[00:00:01]: GL_ARB_draw_buffers
+[00:00:01]: GL_ARB_draw_elements_base_vertex
+[00:00:01]: GL_ARB_draw_instanced
+[00:00:01]: GL_ARB_fragment_program
+[00:00:01]: GL_ARB_fragment_program_shadow
+[00:00:01]: GL_ARB_fragment_shader
+[00:00:01]: GL_ARB_framebuffer_object
+[00:00:01]: GL_ARB_framebuffer_sRGB
+[00:00:01]: GL_ARB_half_float_pixel
+[00:00:01]: GL_ARB_half_float_vertex
+[00:00:01]: GL_ARB_imaging
+[00:00:01]: GL_ARB_instanced_arrays
+[00:00:01]: GL_ARB_multisample
+[00:00:01]: GL_ARB_multitexture
+[00:00:01]: GL_ARB_occlusion_query
+[00:00:01]: GL_ARB_pixel_buffer_object
+[00:00:01]: GL_ARB_point_parameters
+[00:00:01]: GL_ARB_point_sprite
+[00:00:01]: GL_ARB_provoking_vertex
+[00:00:01]: GL_ARB_seamless_cube_map
+[00:00:01]: GL_ARB_shader_objects
+[00:00:01]: GL_ARB_shader_texture_lod
+[00:00:01]: GL_ARB_shading_language_100
+[00:00:01]: GL_ARB_shadow
+[00:00:01]: GL_ARB_shadow_ambient
+[00:00:01]: GL_ARB_sync
+[00:00:01]: GL_ARB_texture_border_clamp
+[00:00:01]: GL_ARB_texture_compression
+[00:00:01]: GL_ARB_texture_compression_rgtc
+[00:00:01]: GL_ARB_texture_cube_map
+[00:00:01]: GL_ARB_texture_env_add
+[00:00:01]: GL_ARB_texture_env_combine
+[00:00:01]: GL_ARB_texture_env_crossbar
+[00:00:01]: GL_ARB_texture_env_dot3
+[00:00:01]: GL_ARB_texture_float
+[00:00:01]: GL_ARB_texture_mirrored_repeat
+[00:00:01]: GL_ARB_texture_non_power_of_two
+[00:00:01]: GL_ARB_texture_rectangle
+[00:00:01]: GL_ARB_texture_rg
+[00:00:01]: GL_ARB_transpose_matrix
+[00:00:01]: GL_ARB_vertex_array_bgra
+[00:00:01]: GL_ARB_vertex_blend
+[00:00:01]: GL_ARB_vertex_buffer_object
+[00:00:01]: GL_ARB_vertex_program
+[00:00:01]: GL_ARB_vertex_shader
+[00:00:01]: GL_ARB_window_pos
+[00:00:01]: GL_ATI_blend_equation_separate
+[00:00:01]: GL_ATI_blend_weighted_minmax
+[00:00:01]: GL_ATI_separate_stencil
+[00:00:01]: GL_ATI_texture_compression_3dc
+[00:00:01]: GL_ATI_texture_env_combine3
+[00:00:01]: GL_ATI_texture_float
+[00:00:01]: GL_ATI_texture_mirror_once
+[00:00:01]: GL_EXT_abgr
+[00:00:01]: GL_EXT_bgra
+[00:00:01]: GL_EXT_bindable_uniform
+[00:00:01]: GL_EXT_blend_color
+[00:00:01]: GL_EXT_blend_equation_separate
+[00:00:01]: GL_EXT_blend_func_separate
+[00:00:01]: GL_EXT_blend_minmax
+[00:00:01]: GL_EXT_blend_subtract
+[00:00:01]: GL_EXT_clip_volume_hint
+[00:00:01]: GL_EXT_debug_label
+[00:00:01]: GL_EXT_debug_marker
+[00:00:01]: GL_EXT_depth_bounds_test
+[00:00:01]: GL_EXT_draw_buffers2
+[00:00:01]: GL_EXT_draw_range_elements
+[00:00:01]: GL_EXT_fog_coord
+[00:00:01]: GL_EXT_framebuffer_blit
+[00:00:01]: GL_EXT_framebuffer_multisample
+[00:00:01]: GL_EXT_framebuffer_object
+[00:00:01]: GL_EXT_framebuffer_sRGB
+[00:00:01]: GL_EXT_geometry_shader4
+[00:00:01]: GL_EXT_gpu_program_parameters
+[00:00:01]: GL_EXT_gpu_shader4
+[00:00:01]: GL_EXT_multi_draw_arrays
+[00:00:01]: GL_EXT_packed_depth_stencil
+[00:00:01]: GL_EXT_packed_float
+[00:00:01]: GL_EXT_provoking_vertex
+[00:00:01]: GL_EXT_rescale_normal
+[00:00:01]: GL_EXT_secondary_color
+[00:00:01]: GL_EXT_separate_specular_color
+[00:00:01]: GL_EXT_shadow_funcs
+[00:00:01]: GL_EXT_stencil_two_side
+[00:00:01]: GL_EXT_stencil_wrap
+[00:00:01]: GL_EXT_texture_array
+[00:00:01]: GL_EXT_texture_compression_dxt1
+[00:00:01]: GL_EXT_texture_compression_s3tc
+[00:00:01]: GL_EXT_texture_env_add
+[00:00:01]: GL_EXT_texture_filter_anisotropic
+[00:00:01]: GL_EXT_texture_integer
+[00:00:01]: GL_EXT_texture_lod_bias
+[00:00:01]: GL_EXT_texture_mirror_clamp
+[00:00:01]: GL_EXT_texture_rectangle
+[00:00:01]: GL_EXT_texture_sRGB
+[00:00:01]: GL_EXT_texture_sRGB_decode
+[00:00:01]: GL_EXT_texture_shared_exponent
+[00:00:01]: GL_EXT_timer_query
+[00:00:01]: GL_EXT_transform_feedback
+[00:00:01]: GL_EXT_vertex_array_bgra
+[00:00:01]: GL_IBM_rasterpos_clip
+[00:00:01]: GL_NV_blend_square
+[00:00:01]: GL_NV_conditional_render
+[00:00:01]: GL_NV_depth_clamp
+[00:00:01]: GL_NV_fog_distance
+[00:00:01]: GL_NV_light_max_exponent
+[00:00:01]: GL_NV_texgen_reflection
+[00:00:01]: GL_NV_texture_barrier
+[00:00:01]: GL_SGIS_generate_mipmap
+[00:00:01]: GL_SGIS_texture_edge_clamp
+[00:00:01]: GL_SGIS_texture_lod
+[00:00:01]: GL_SGI_color_matrix
+[00:00:01]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:01]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:01]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:01]: GL_MAX_VARYING_VECTORS not supported
+[00:00:01]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:01]: GL_MAX_VERTEX_UNIFORM_VECTORS not supported
+[00:00:01]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_FRAGMENT_UNIFORM_VECTORS not supported
+[00:00:01]: 4 compressed texture formats
+[00:00:01]: texture format 0x83f0
+[00:00:01]: texture format 0x83f2
+[00:00:01]: texture format 0x83f3
+[00:00:01]: texture format 0x8837
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:02]:   taskgrouplist:	default	联机版	
+[00:00:02]:   taskgrouplist:	classic	经典	
+[00:00:02]:   taskgrouplist:	cave_default	地下	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:02]: running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence.
+	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: PlayerDeaths loaded morgue	1140	
+[00:00:03]: PlayerHistory loaded player_history (v2) len:996	
+[00:00:03]: ServerPreferences loaded server_preferences	2	
+[00:00:03]: bloom_enabled	false	
+[00:00:03]: Could not load saveindex	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Klump load on boot started.	
+[00:00:03]: Klump files loaded: 	0	
+[00:00:03]: 	Load FE	
+[00:00:04]: 	Load FE: done	
+[00:00:04]: THREAD - started 'FilesExistAsyncThread' (123145349623808)
+[00:00:04]: FilesExistAsyncThread started (15663 files)...
+[00:00:04]: OnLoadPermissionList: /Users/aloua/Documents/Klei//DoNotStarveTogether/1088446501/client_save/blocklist.txt (Failure)
+[00:00:04]: OnLoadPermissionList: /Users/aloua/Documents/Klei//DoNotStarveTogether/1088446501/client_save/adminlist.txt (Failure)
+[00:00:04]: OnLoadUserIdList: /Users/aloua/Documents/Klei//DoNotStarveTogether/1088446501/client_save/whitelist.txt (Failure)
+[00:00:04]: [MOTD] Downloading info from	https://motd.klei.com/?game=dst&platform=STEAM&locale=US&lang=english&user=76561199048712229	
+[00:00:04]: SimLuaProxy::QueryServer()
+[00:00:04]: Check for write access: TRUE
+[00:00:04]: Check for read access: TRUE
+[00:00:04]: ModIndex: Load sequence finished successfully.	
+[00:00:04]: Reset() returning
+[00:00:04]: focus gained
+[00:00:05]: ... FilesExistAsyncThread complete
+[00:00:06]: [MOTD] Done Loading.	
+[00:00:06]: [Steam] Auth Session Ticket requested...
+[00:00:06]: [Steam] Got Auth Session Ticket
+[00:00:07]: [200] Account Communication Success (3)
+[00:00:07]: Logging in as KU_c3g30tbl
+[00:00:08]: There is no active event to get the status of.
+[00:00:08]: loaded inventory_cache_prod
+[00:00:08]: loaded inventory_cache_prod
+[00:00:12]: Getting top mod details...
+[00:00:13]: GOT top mod details...50
+[00:00:17]: Frontend-Unloading mod 'all'.	
+[00:00:42]: Getting top mod details...
+[00:00:42]: GOT top mod details...50
+[00:00:57]: Frontend-Unloading mod 'all'.	
+[00:00:58]: Getting top mod details...
+[00:00:58]: GOT top mod details...50
+[00:01:07]: Frontend-Unloading mod 'all'.	
+[00:01:28]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:29]: Friends are currently playing in 0 games(s)!
+[00:01:29]: You belong to 0 clan(s)!
+[00:01:29]: Downloaded server listings - chunk 0 (US): 3924 filtered completed: 1889
+[00:01:30]: Downloaded server listings - chunk 1 (EU): 2053 filtered completed: 3455
+[00:01:36]: focus lost
+[00:01:37]: focus gained
+[00:01:46]: Getting top mod details...
+[00:01:46]: GOT top mod details...50
+[00:02:22]: Executing "open "http://steamcommunity.com/app/322330/workshop/""
+[00:02:23]: focus lost
+[00:03:01]: focus gained
+[00:03:07]: focus lost
+[00:03:21]: focus gained
+[00:03:23]: focus lost
+[00:03:47]: DownloadPublishedFileV2()
+[00:03:47]: OnDownloadPublishedFileResultV2 
+[00:03:47]:    EResult 1, 844843374872308543
+[00:03:47]:    245850, 55105, [mod_publish_data_file.zip], 76561198074442304
+[00:03:47]: THREAD - started 'cUnpackModThread' (123145352269824)
+[00:03:47]: Could not open directory [../mods/workshop-836583293] 2 (/Users/aloua/Library/Application Support/Steam/steamapps/common/Don't Starve Together/dontstarve_steam.app/Contents/data)
+[00:03:47]: cWorkshopMod::UnzipMod ../mods/workshop-836583293
+[00:04:10]: focus gained
+[00:04:12]: focus lost
+[00:04:21]: focus gained
+[00:04:22]: focus lost
+[00:04:31]: DownloadPublishedFileV2()
+[00:04:31]: OnDownloadPublishedFileResultV2 
+[00:04:31]:    EResult 1, 1014940663410069281
+[00:04:31]:    245850, 396173, [mod_publish_data_file.zip], 76561198025931302
+[00:04:31]: THREAD - started 'cUnpackModThread' (123145352269824)
+[00:04:31]: Could not open directory [../mods/workshop-376333686] 2 (/Users/aloua/Library/Application Support/Steam/steamapps/common/Don't Starve Together/dontstarve_steam.app/Contents/data)
+[00:04:31]: cWorkshopMod::UnzipMod ../mods/workshop-376333686
+[00:05:07]: DownloadPublishedFileV2()
+[00:05:07]: OnDownloadPublishedFileResultV2 
+[00:05:07]:    EResult 1, 772856069240098160
+[00:05:07]:    245850, 321000, [mod_publish_data_file.zip], 76561198137607473
+[00:05:07]: THREAD - started 'cUnpackModThread' (123145352269824)
+[00:05:07]: Could not open directory [../mods/workshop-1889299115] 2 (/Users/aloua/Library/Application Support/Steam/steamapps/common/Don't Starve Together/dontstarve_steam.app/Contents/data)
+[00:05:07]: cWorkshopMod::UnzipMod ../mods/workshop-1889299115
+[00:05:15]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:05:15]: Collecting garbage...
+[00:05:15]: lua_gc took 0.02 seconds
+[00:05:15]: ~ShardLuaProxy()
+[00:05:15]: ~cEventLeaderboardProxy()
+[00:05:15]: ~ItemServerLuaProxy()
+[00:05:15]: ~InventoryLuaProxy()
+[00:05:15]: ~NetworkLuaProxy()
+[00:05:15]: ~SimLuaProxy()
+[00:05:15]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:05:15]: lua_close took 0.05 seconds
+[00:05:15]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:05:15]: saved ping_cache
+[00:05:15]: [Steam] Auth ticket cancelled
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:15]: CurlRequestManager::ClientThread::Main() complete
+[00:05:15]: HttpClient2 discarded 0 callbacks.
+[00:05:15]: Shutting down

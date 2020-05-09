@@ -1,0 +1,15 @@
+[00:23:58]: [Leave Announcement] liwen_1202
+[00:27:04]: [Join Announcement] juinjett
+[00:38:29]: [Death Announcement] liwen_1202 死于： 猎犬。她变成了可怕的鬼魂！
+[00:38:55]: [Leave Announcement] juinjett
+[00:38:55]: [Leave Announcement] liwen_1202
+[00:42:21]: [Join Announcement] juinjett
+[01:27:35]: [Death Announcement] juinjett 死于： 触手。它变成了可怕的鬼魂！
+[01:35:50]: [Resurrect Announcement] juinjett 复活自： liwen_1202.
+[02:17:31]: [Skin Announcement] juinjett body_tweedvest_pink_raspberry
+[02:56:51]: [Death Announcement] juinjett 死于： 黑暗。它变成了可怕的鬼魂！
+[03:00:21]: [Resurrect Announcement] juinjett 复活自： alouaboiler.
+[03:12:26]: [Death Announcement] alouaboiler 死于： 蜘蛛。她变成了可怕的鬼魂！
+[03:15:18]: [Death Announcement] liwen_1202 死于： 杀人蜂。她变成了可怕的鬼魂！
+[03:15:28]: [Leave Announcement] liwen_1202
+[03:15:28]: [Leave Announcement] juinjett

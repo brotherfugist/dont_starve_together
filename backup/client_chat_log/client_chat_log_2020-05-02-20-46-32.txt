@@ -1,0 +1,53 @@
+[00:03:40]: [Join Announcement] lichaoyin
+[00:06:26]: [Death Announcement] lichaoyin 死于： 触手。她变成了可怕的鬼魂！
+[00:06:55]: [Leave Announcement] Philip.J.Fry
+[00:06:55]: [Leave Announcement] Jar Jar Binks
+[00:06:55]: [Leave Announcement] yingchen199
+[00:06:55]: [Leave Announcement] bingyue24
+[00:06:55]: [Leave Announcement] Li
+[00:06:55]: [Leave Announcement] lichaoyin
+[00:09:55]: [Join Announcement] bingyue24
+[00:09:56]: [Join Announcement] lichaoyin
+[00:09:56]: [Join Announcement] yingchen199
+[00:22:39]: [Death Announcement] alouaboiler 死于： 触手。他变成了可怕的鬼魂！
+[00:28:15]: [Resurrect Announcement] alouaboiler 复活自： Philip.J.Fry.
+[00:28:24]: [Death Announcement] alouaboiler 死于： 触手。他变成了可怕的鬼魂！
+[00:28:41]: [Resurrect Announcement] alouaboiler 复活自： Philip.J.Fry.
+[00:29:14]: [Death Announcement] alouaboiler 死于： 触手。他变成了可怕的鬼魂！
+[00:29:29]: [Leave Announcement] bingyue24
+[00:29:29]: [Leave Announcement] Philip.J.Fry
+[00:29:29]: [Leave Announcement] Li
+[00:29:29]: [Leave Announcement] Jar Jar Binks
+[00:29:29]: [Leave Announcement] yingchen199
+[00:29:29]: [Leave Announcement] lichaoyin
+[00:31:43]: [Join Announcement] Philip.J.Fry
+[00:31:44]: [Join Announcement] bingyue24
+[00:31:56]: [Join Announcement] lichaoyin
+[00:32:08]: [Join Announcement] yingchen199
+[00:32:20]: [Join Announcement] Li
+[00:38:41]: [Death Announcement] alouaboiler 死于： 黑暗。她变成了可怕的鬼魂！
+[00:38:43]: [Death Announcement] Li 死于： 黑暗。她变成了可怕的鬼魂！
+[00:40:07]: [Leave Announcement] Li
+[00:40:07]: [Leave Announcement] Jar Jar Binks
+[00:40:07]: [Leave Announcement] bingyue24
+[00:40:07]: [Leave Announcement] yingchen199
+[00:40:07]: [Leave Announcement] Philip.J.Fry
+[00:40:07]: [Leave Announcement] lichaoyin
+[00:41:57]: [Join Announcement] Philip.J.Fry
+[00:42:01]: [Join Announcement] Li
+[00:42:03]: [Join Announcement] bingyue24
+[00:42:09]: [Join Announcement] lichaoyin
+[00:42:10]: [Join Announcement] yingchen199
+[00:43:17]: [Leave Announcement] Jar Jar Binks
+[00:43:17]: [Leave Announcement] Philip.J.Fry
+[00:43:17]: [Leave Announcement] lichaoyin
+[00:43:17]: [Leave Announcement] yingchen199
+[00:43:17]: [Leave Announcement] bingyue24
+[00:43:17]: [Leave Announcement] Li
+[00:44:44]: [Join Announcement] Li
+[00:44:44]: [Join Announcement] bingyue24
+[00:44:50]: [Join Announcement] lichaoyin
+[00:45:04]: [Join Announcement] Philip.J.Fry
+[00:45:07]: [Join Announcement] yingchen199
+[01:20:19]: [Skin Announcement] Li body_wurt_shadow
+[01:33:02]: [Skin Announcement] lichaoyin body_tshirt_red_higgsbury

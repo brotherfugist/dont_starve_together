@@ -1,0 +1,16 @@
+[00:01:28]: [Join Announcement] liwen_1202
+[00:15:24]: [Death Announcement] alouaboiler 死于： 黑暗。她变成了可怕的鬼魂！
+[00:26:29]: [Leave Announcement] liwen_1202
+[00:32:35]: [Join Announcement] liwen_1202
+[01:03:48]: [Death Announcement] alouaboiler 死于： 黑暗。她变成了可怕的鬼魂！
+[01:12:57]: [Leave Announcement] liwen_1202
+[01:16:36]: [Join Announcement] liwen_1202
+[01:56:45]: [Join Announcement] pridecache
+[01:59:47]: [Leave Announcement] liwen_1202
+[01:59:47]: [Leave Announcement] pridecache
+[02:00:49]: [Join Announcement] liwen_1202
+[02:44:02]: [Skin Announcement] liwen_1202 feet_wes_yule
+[03:07:40]: [Death Announcement] alouaboiler 死于： 黑暗。她变成了可怕的鬼魂！
+[03:08:52]: [Death Announcement] liwen_1202 死于： 黑暗。她变成了可怕的鬼魂！
+[03:09:38]: [Join Announcement] liwen_1202
+[03:10:11]: [Leave Announcement] liwen_1202
